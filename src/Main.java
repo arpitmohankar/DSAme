@@ -4,7 +4,7 @@ class Main {
         System.out.println("Hello World");
         for (int i = 0; i < 10; i++) {
             System.out.println("Hello World");
-            System.out.println("Hi learned to connect github with intellij ide ");
+            System.out.println("Hi learned to connect github with intellij");
         }
 
     }
